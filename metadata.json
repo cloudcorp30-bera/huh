@@ -1,0 +1,9 @@
+{
+  "name": "Bera Host",
+  "description": "A production-ready hosting control panel for any application type, featuring a powerful file manager, real-time console, and resource monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
